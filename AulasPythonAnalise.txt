@@ -1,0 +1,19 @@
+
+Começando novamente: 
+
+  Para criar um ambiente de trabalho virtual no python:
+  
+  1 Python -m venv .venv
+  2 terminal .\.venv\Scripts\active
+  
+  
+  Checar as bibliotecas instaladas :
+    pip list 
+   
+  Checar as bibliotecas e versoes :
+    pip freeze
+   
+   Gerar um arquivos com as dependecias e instalar e um outro ambiente:
+    
+	pip install -r requirements.txt
+
